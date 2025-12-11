@@ -19,6 +19,10 @@ class WC_Phone_Orders_Shipping_Rate_Mod {
 	 * @var string
 	 */
 	private $label;
+	/**
+	 * @var string
+	 */
+	private $title = '';
 
 	/**
 	 * @var boolean
