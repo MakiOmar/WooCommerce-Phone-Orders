@@ -1,0 +1,1356 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Phone Orders for WooCommerce (Pro)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-14 10:24+0000\n"
+"PO-Revision-Date: 2023-12-12 10:09+0000\n"
+"Last-Translator: Lumpur Koa\n"
+"Language-Team: Finnish\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.3-RC3-56344"
+
+#: classes/tabs/class-wc-phone-orders-help-page.php:42
+#, php-format
+msgid ""
+"<a href=%s target=_blank>Pro version</a> allows you to pay as customer, via "
+"checkout page. You can pay directly from admin area too – use <a href=%s "
+"target=_blank>this free plugin</a>. They support Stripe and Authorize.Net."
+msgstr ""
+"Pro versio mahdollistaa sinun maksavan asiakkaana kassasivun kautta. Voit "
+"maksaa myös suoraan hallinnan kautta - käyttämällä tätä ilmaista lisäosaa."
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:1328
+msgid "A valid email address is required"
+msgstr "Voimassaoleva sähköpostiosoite on pakollinen"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:120
+msgid "above customer details"
+msgstr "edellä asiakkaan tiedot"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:410
+msgid "Add"
+msgstr "Lisää"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:402
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:404
+msgid "Add a note"
+msgstr "Lisää huomautus"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:79
+msgid "Add Coupon"
+msgstr "Lisää Kuponki"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:345
+msgid "Add coupon"
+msgstr "Lisää kuponki"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:124
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:346
+msgid "Add discount"
+msgstr "Lisää alennus"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:132
+msgid "Add Fee"
+msgstr "Lisää Maksu"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:226
+msgid "Add Gift Card"
+msgstr "Lisää Lahjakortti"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:376
+msgid "Add meta"
+msgstr "Lisää meta"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:31
+msgid "Add order"
+msgstr "Lisää tilaus"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:170
+msgid "Add products to the cart"
+msgstr "Lisää tuotteita ostoskoriin"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:349
+msgid "Add shipping"
+msgstr "Lisää shipping"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:177
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:232
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:412
+msgid "Add to cart"
+msgstr "Lisää ostoskoriin"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:338
+msgid "Add to Order"
+msgstr "Lisää Tilata"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:92
+msgid "Address Validation Service API Key (USPS Username)"
+msgstr "Address Validation Service API-Avain (USPS Käyttäjätunnus)"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:567
+msgid "Address1"
+msgstr "Osoite"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:571
+msgid "Address2"
+msgstr "Osoitteen lisärivi"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:414
+msgid "Advanced search"
+msgstr "Tarkennettu haku"
+
+#. Author of the plugin
+msgid "AlgolPlus"
+msgstr "AlgolPlus"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:98
+msgid "Allow to create orders without payment"
+msgstr "Salli tilausten luominen ilman maksua"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:186
+msgid "Allow to create orders without shipping"
+msgstr "Salli luoda tilaukset ilman toimituskuluja"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:176
+msgid "Allow to edit shipping cost"
+msgstr "Salli muokata toimituskulut"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:179
+msgid "Allow to edit shipping title"
+msgstr "Salli muokata toimituksen otsikko"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:134
+msgid "Allow to input fractional qty"
+msgstr "Salli syöttää murto kpl"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:72
+msgid "API Key is invalid"
+msgstr "API-Avain on virheellinen"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:71
+msgid "API Key is valid"
+msgstr "API-Avain on voimassa"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:72
+msgid "Apply"
+msgstr "Levitä"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:65
+msgid "Automatically update Shipping/Taxes/Totals"
+msgstr "Automaattisesti päivittä Toimitus/Verot/Yhteensä"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:418
+msgid ""
+"Barcode mode enabled! Product search works only after pressing the Enter key"
+msgstr ""
+"Viivakooditila käytössä! Tuotehaku toimii vasta Enter-näppäimen painamisen "
+"jälkeen"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:121
+msgid "below customer details"
+msgstr "alla asiakkaan tiedot"
+
+#: classes/tabs/class-wc-phone-orders-tabs-helper.php:200
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:552
+msgid "Billing address"
+msgstr "Laskutusosoite"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:306
+msgid "Billing Details"
+msgstr "Laskutustiedot"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:420
+msgid "Billing Schedule"
+msgstr "Laskutuksen Aikataulu"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:336
+msgid "Browse shop and add products to cart"
+msgstr "Selaa kauppaa ja lisää tuotteita ostoskoriin"
+
+#: classes/tabs/class-wc-phone-orders-help-page.php:45
+msgid "Button \"Create Order\" does nothing"
+msgstr "Painiketta \"Luo Tilaus\" ei ole"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:317
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:360
+#: classes/tabs/class-wc-phone-orders-settings-page.php:59
+msgid "Buy Pro version"
+msgstr "Ostaa Pro versio"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:166
+msgid "Caching locations/categories/tags"
+msgstr "Välimuistin paikkoja/luokkia/tunnisteet"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:156
+msgid "Caching search results"
+msgstr "Välimuistin hakutuloksissa"
+
+#: classes/class-wc-phone-orders-fill-cart.php:44
+#, php-format
+msgid "Can not add %d &quot;%s&quot; because it is not available."
+msgstr "Voi lisätä %d \"%s\", koska se on ei saatavilla."
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:750
+msgid "Can not create new product"
+msgstr "Voi luoda uuden tuotteen"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:71
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:178
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:231
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:413
+msgid "Cancel"
+msgstr "Peruuta"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:130
+msgid "Cart Items"
+msgstr "Ostoskoriin Kohteita"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:95
+msgid "Category"
+msgstr "Luokka"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:70
+msgid "Check"
+msgstr "Tarkista"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:181
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:383
+msgid "Choose an option"
+msgstr "Valitse vaihtoehto"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:176
+msgid "Choose gifts"
+msgstr "Valita lahjoja"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:427
+msgid "Choose interval"
+msgstr "Valitse aikaväli"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:375
+msgid "Choose meta field"
+msgstr "Valitse meta kenttä"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:428
+msgid "Choose period"
+msgstr "Valitse jakso"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:575
+msgid "City"
+msgstr "Kaupunki"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:379
+msgid "Collapse edit meta"
+msgstr "Romahdus muokata meta"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:105
+msgid "Collapse WordPress menu"
+msgstr "Romahdus WordPress menu"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:535
+#: classes/tabs/class-wc-phone-orders-settings-page.php:64
+msgid "Common"
+msgstr "Yhteinen"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:555
+msgid "Company"
+msgstr "Yritys"
+
+#: classes/tabs/class-wc-phone-orders-help-page.php:49
+msgid "Compatibility/Code samples/Pro version"
+msgstr "Yhteensopivuus/Koodi näytteet/Pro-versio"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:169
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:237
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:339
+msgid "Configure product"
+msgstr "Määrittää tuotteen"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:121
+msgid "Copied from order"
+msgstr "Kopioitu tilauksesta"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:163
+msgid "Copy from billing address"
+msgstr "Kopioi laskutusosoite"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:416
+msgid "Copy to clipboard"
+msgstr "Kopioi leikepöydälle"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:392
+msgid "Copy url to populate cart"
+msgstr "Kopioi url-osoite asuttamaan ostoskoriin"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:341
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:370
+msgid "Cost"
+msgstr "Hinta"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:563
+msgid "Country"
+msgstr "Maa"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:129
+msgid "Coupon Name"
+msgstr "Kuponki Nimi"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:155
+msgid "Coupons"
+msgstr "Kuponkeja"
+
+#: classes/tabs/class-wc-phone-orders-tabs-helper.php:268
+msgid "Coupons applied"
+msgstr "Kuponkeja sovelletaan"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:86
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:335
+msgid "Create custom product"
+msgstr "Luo mukautettuja tuotteen"
+
+#. Description of the plugin
+msgid "Create manual/phone orders in WooCommerce quickly"
+msgstr "Luo manuaalinen/puhelin tilaukset WooCommerce nopeasti"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:358
+msgid "Create new order"
+msgstr "Luo uusi järjestys"
+
+#: classes/class-wc-phone-orders-loader.php:62
+#: classes/class-wc-phone-orders-loader.php:395
+msgid "Create Order"
+msgstr "Tee tilaus"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:354
+msgid "Create order"
+msgstr "Tee tilaus"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:100
+msgid "Create product"
+msgstr "Luo tuote"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:378
+msgid "Custom meta field key"
+msgstr "Custom meta kenttä-näppäintä"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:377
+msgid "Custom meta field value"
+msgstr "Custom meta kentän arvo"
+
+#: classes/tabs/class-wc-phone-orders-list-log.php:54
+msgid "Customer"
+msgstr "Asiakas"
+
+#: classes/tabs/class-wc-phone-orders-list-log.php:186
+msgid "Customer login"
+msgstr "Asiakas kirjautuminen"
+
+#: classes/tabs/class-wc-phone-orders-tabs-helper.php:225
+msgid "Customer note"
+msgstr "Asiakas huomaa"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:401
+msgid "Customer provided note"
+msgstr "Asiakkaan huomautus"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:201
+msgid "Date"
+msgstr "Päivämäärä"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:182
+msgid "Default shipping method"
+msgstr "Oletuksena toimitustapa"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:366
+msgid "Delete item"
+msgstr "Poista kohde"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:158
+#: classes/tabs/class-wc-phone-orders-settings-page.php:168
+msgid "Disable cache"
+msgstr "Poistaa välimuisti"
+
+#: classes/tabs/class-wc-phone-orders-list-log.php:56
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:348
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:417
+msgid "Discount"
+msgstr "Alennus"
+
+#: classes/class-wc-phone-orders-loader.php:397
+msgid "Docs"
+msgstr "Dokumentointi"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:436
+msgid "Don't apply pricing rules to this order"
+msgstr "Älä käytä hinnoittelusääntöjä tähän tilaukseen"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:104
+msgid "Don't close popup on click outside"
+msgstr "Älä sulje ponnahdusikkuna napsauttamalla ulkopuolella"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:77
+msgid "Don't send order emails"
+msgstr "Älä lähetä tilaus sähköpostit"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:148
+msgid "Done"
+msgstr "Tehty"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:264
+msgid "Draft"
+msgstr "Luonnos"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:394
+msgid "Duplicate order"
+msgstr "Kahtena järjestyksessä"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:503
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:546
+msgid "E-mail"
+msgstr "Sähköpostiosoite"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:147
+msgid "Edit address"
+msgstr "Muokkaa osoite"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:373
+msgid "Edit meta"
+msgstr "Muokata meta"
+
+#: classes/tabs/class-wc-phone-orders-list-log.php:166
+msgid "Edit Phone Order"
+msgstr "Muokkaa Puhelimen Tilaa"
+
+#: classes/tabs/class-wc-phone-orders-tabs-helper.php:206
+msgid "Email"
+msgstr "Sähköposti"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:347
+msgid "Fee"
+msgstr "Maksu"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:134
+msgid "Fee amount"
+msgstr "Maksun määrä"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:133
+msgid "Fee name"
+msgstr "Maksu nimi"
+
+#: classes/tabs/class-wc-phone-orders-list-log.php:57
+msgid "Fees"
+msgstr "Palkkiot"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:304
+msgid "Find a customer"
+msgstr "Etsi asiakas"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:303
+msgid "Find or create a customer"
+msgstr "Etsi tai luo asiakas"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:235
+msgid "Find products ..."
+msgstr "Etsi tuotteita..."
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:337
+msgid "Find products..."
+msgstr "Etsi tuotteita..."
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:507
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:538
+msgid "First name"
+msgstr "Etunimi"
+
+#: classes/class-wc-phone-orders-loader.php:328
+msgid "five star"
+msgstr "viiden tähden"
+
+#: classes/class-wc-phone-shipping-method.php:14
+#: classes/class-wc-phone-shipping-method.php:43
+msgid "Free Shipping [Phone Orders]"
+msgstr "Ilmainen toimitus (puhelintilaukset)"
+
+#: classes/class-wc-phone-shipping-method.php:15
+msgid "Free Shipping in admin area only, for Phone Orders "
+msgstr "Ilmainen Toimitus admin-alueella vain, sillä Puhelin Tilauksia "
+
+#: classes/tabs/class-wc-phone-orders-tools-page.php:26
+msgid "Get report"
+msgstr "Hae raportti"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:431
+msgid "Gift Card"
+msgstr "Lahjakortti"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:227
+msgid "Gift card number"
+msgstr "Lahjakortin numero"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:179
+msgid "gifts left"
+msgstr "lahjoja jäljellä"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:69
+msgid "Google Map API Key"
+msgstr "Google Map API Key"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:415
+msgid "granted by coupon"
+msgstr "myönnetty kuponki"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:320
+msgid "Guest"
+msgstr "Etsi"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:432
+msgid "Have a gift card?"
+msgstr "On lahjakortti?"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:99
+msgid "Height"
+msgstr "Korkeus"
+
+#: classes/tabs/class-wc-phone-orders-help-page.php:13
+msgid "Help"
+msgstr "Auttaa"
+
+#: classes/tabs/class-wc-phone-orders-help-page.php:26
+msgid "helpdesk system"
+msgstr "helpdesk-järjestelmä"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:74
+msgid "Hide results without house number"
+msgstr "Piilota tulokset ilman talonumeroa"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:150
+msgid "Hide tax line for item"
+msgstr "Piilota vero-line tuote"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:425
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:445
+msgctxt "hour placeholder"
+msgid "h"
+msgstr "s"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:157
+#: classes/tabs/class-wc-phone-orders-settings-page.php:167
+msgid "hours"
+msgstr "tuntia"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:73
+msgid "How to get api key"
+msgstr "Miten saada api-avain"
+
+#: classes/tabs/class-wc-phone-orders-help-page.php:41
+msgid "How to pay order?"
+msgstr "Miten maksaa tilauksen?"
+
+#: classes/tabs/class-wc-phone-orders-help-page.php:29
+msgid "How to set default country/state for new customers?"
+msgstr "Miten asettaa oletus maa/valtio uusille asiakkaille?"
+
+#. Author URI of the plugin
+msgid "http://algolplus.com/"
+msgstr "http://algolplus.com/"
+
+#: classes/tabs/class-wc-phone-orders-help-page.php:33
+msgid ""
+"I can't add new customer, I see popup with message “Please enter an account "
+"password”"
+msgstr ""
+"En voi lisätä uuden asiakkaan, näen popup viesti \"anna tilin salasana\""
+
+#: classes/tabs/class-wc-phone-orders-help-page.php:37
+msgid "I don't see Free Shipping [Phone Orders] in popup"
+msgstr "En näe ilmaista toimitusta (puhelintilaukset) ponnahdusikkunassa"
+
+#. 1: WooCommerce 2:: five stars
+#: classes/class-wc-phone-orders-loader.php:326
+#, php-format
+msgid ""
+"If you like %1$s please leave us a %2$s rating. Thank you so much in advance!"
+msgstr ""
+"Jos pidät %1$s ole hyvä ja jätä meille %2$s: stä. Kiitos paljon jo etukäteen!"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:108
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:110
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:152
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:154
+msgid "Input your address"
+msgstr "Input osoitteesi"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:102
+msgid "Interface"
+msgstr "Käyttöliittymä"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:1355
+#, php-format
+msgid "Invoice for order #%s has been sent to %s"
+msgstr "Laskun järjestys #%s on lähetetty %s"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:1343
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:1345
+msgid "Invoice manually sent to customer from Phone Order."
+msgstr ""
+"Laskun manuaalisesti lähetetään asiakkaalle Puhelimesta Järjestyksessä."
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:340
+msgid "Item"
+msgstr "Tuote"
+
+#: classes/tabs/class-wc-phone-orders-list-log.php:24
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:408
+msgid "item"
+msgstr "tuote"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:222
+msgid "Item removed from cart"
+msgstr "Tuote poistettu ostoskorista"
+
+#: classes/tabs/class-wc-phone-orders-list-log.php:55
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:205
+msgid "Items"
+msgstr "Kohteita"
+
+#: classes/tabs/class-wc-phone-orders-list-log.php:25
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:407
+msgid "items"
+msgstr "kohteita"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:511
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:542
+msgid "Last name"
+msgstr "Sukunimi"
+
+#: classes/tabs/abstract-wc-phone-orders-tab.php:42
+msgid "Latitude"
+msgstr "Leveyttä"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:114
+msgid "Layout"
+msgstr "Layout"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:97
+msgid "Length"
+msgstr "Pituus"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:90
+msgid "Line item name"
+msgstr "Rivikohdan nimeä"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:83
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:93
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:116
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:158
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:451
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:457
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:462
+#: classes/tabs/class-wc-phone-orders-settings-page.php:78
+#: classes/tabs/class-wc-phone-orders-settings-page.php:188
+msgid "List is empty."
+msgstr "Luettelo on tyhjä."
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:118
+msgid "Load customer details from order"
+msgstr "Lataa asiakkaan tiedot tilauksesta"
+
+#: classes/tabs/class-wc-phone-orders-log-page.php:16
+msgid "Log"
+msgstr "Kirjaudu"
+
+#: classes/tabs/class-wc-phone-orders-log-page.php:21
+msgid "Log page"
+msgstr "Kirjaudu page"
+
+#: classes/tabs/abstract-wc-phone-orders-tab.php:47
+msgid "Longitude"
+msgstr "Pituutta"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:391
+msgid "Manual Discount"
+msgstr "Manuaalinen Alennus"
+
+#: classes/tabs/class-wc-phone-orders-tabs-helper.php:275
+msgid "Manual discount"
+msgstr "Manuaalinen alennus"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:426
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:446
+msgctxt "minute placeholder"
+msgid "m"
+msgstr "m"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:759
+msgid "Missing data"
+msgstr "Puuttuvat tiedot"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:316
+msgid "Need extra features?"
+msgstr "Tarvitsetko lisää ominaisuuksia?"
+
+#: classes/tabs/class-wc-phone-orders-help-page.php:26
+msgid "Need help? Submit ticket to"
+msgstr "Tarvitsetko apua? Lähetä lippu"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:59
+msgid "Need more settings?"
+msgstr "Tarvitse lisää asetuksia?"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:106
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:305
+msgid "New customer"
+msgstr "Uusi asiakas"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:423
+msgid "Next Payment"
+msgstr "Seuraava Maksu"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:309
+msgid "No billing address was provided."
+msgstr "Ei laskutus-osoite on annettu."
+
+#: classes/tabs/abstract-wc-phone-orders-tab.php:583
+msgid "No default shipping method"
+msgstr "Ole oletuksena toimitustapa"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:233
+msgid "No products found"
+msgstr "Tuotteita ei löytynyt"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:310
+msgid "No shipping address was provided."
+msgstr "Ei ole shipping-osoite on annettu."
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:1094
+msgid "No shipping method has been selected."
+msgstr "Ei toimitustapa on valittu."
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:140
+msgid "No shipping methods available"
+msgstr "Ei toimitustavat saatavilla"
+
+#: classes/class-wc-phone-orders-cart-updater.php:1377
+#: classes/class-wc-phone-orders-cart-updater.php:1411
+#: classes/tabs/abstract-wc-phone-orders-tab.php:419
+#: classes/tabs/abstract-wc-phone-orders-tab.php:440
+msgid "No value"
+msgstr "Valitse"
+
+#: classes/tabs/class-wc-phone-orders-tabs-helper.php:301
+msgid "Not selected!"
+msgstr "Ei valittu!"
+
+#: classes/tabs/abstract-wc-phone-orders-tab.php:468
+msgid "Not taxable"
+msgstr "Ole verovelvollinen"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:368
+#, php-format
+msgid "Only %s items can be purchased"
+msgstr "Vain %s kohdetta voi ostaa"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:81
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:119
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:321
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:364
+msgid "Oops! No elements found. Consider changing the search query."
+msgstr "Oho! Mitään ei löytynyt. Kokeile muuttaa hakusanoja."
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:1045
+#, php-format
+msgid "Order #%s created"
+msgstr "Tilaus #%s luotu"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:334
+#, php-format
+#| msgid "Order details"
+msgid "Order %s details"
+msgstr "Tilauksen tiedot %s"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:1165
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:1167
+msgid "Order created with Phone Orders."
+msgstr "Tilaus luotu Puhelintilauksella."
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:454
+msgid "Order currency"
+msgstr "Tilausvaluutta"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:442
+msgid "Order date"
+msgstr "Tilauksen päivämäärä"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:119
+msgid "Order fields position"
+msgstr "Tilauskenttien paikka"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:327
+msgid "Order History &rarr;"
+msgstr "Tilaushistoria →"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:186
+msgid "Order history for"
+msgstr "Tilaushistoria"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:1317
+msgid "Order not found"
+msgstr "Tilausta ei löytynyt"
+
+#: classes/tabs/class-wc-phone-orders-list-log.php:53
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:197
+msgid "Order number"
+msgstr "Tilausnumero"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:449
+msgid "Order status"
+msgstr "Tilauksen tila"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:353
+msgid "Order Total"
+msgstr "Tilaus yhteensä"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:328
+msgid "Orders"
+msgstr "Tilaukset"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:406
+msgid "Package"
+msgstr "Paketti"
+
+#: classes/tabs/class-wc-phone-orders-tabs-helper.php:304
+msgid "Package "
+msgstr "Paketti "
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:144
+msgid "Package contents"
+msgstr "Pakkauksen sisältö"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:460
+msgid "Payment method"
+msgstr "Maksutapa"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:213
+msgid "Payment Type"
+msgstr "Maksu Tyyppi"
+
+#: classes/tabs/class-wc-phone-orders-tabs-helper.php:212
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:559
+msgid "Phone"
+msgstr "Puhelin"
+
+#: classes/class-wc-phone-orders-loader.php:409
+msgid "Phone order"
+msgstr "Puhelin tilaa"
+
+#: classes/class-wc-phone-orders-main.php:160
+#: classes/class-wc-phone-orders-main.php:161
+msgid "Phone Orders"
+msgstr "Puhelin Tilauksia"
+
+#. Name of the plugin
+#: classes/class-wc-phone-orders-loader.php:327
+msgid "Phone Orders for WooCommerce"
+msgstr "Puhelin Tilaukset, WooCommerce"
+
+#: classes/class-wc-phone-orders-loader.php:224
+#, php-format
+msgid ""
+"Phone Orders For WooCommerce is available <a href=\"%s\">on this page</a>."
+msgstr "Puhelintilaukset WooCommercelle on käytettävissä tällä sivulla."
+
+#: phone-orders-for-woocommerce.php:56
+msgid "Phone Orders for WooCommerce requires active WooCommerce!"
+msgstr "WooCommercen puhelintilaukset edellyttävät aktiivista WooCommercea!"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:114
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:156
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:395
+msgid "Please fill out all required fields!"
+msgstr "Täytä kaikki pakolliset kentät!"
+
+#: phone-orders-for-woocommerce.php:34
+msgid ""
+"Please, <a href=\"plugins.php\">deactivate</a> Free version of Phone Orders "
+"for WooCommerce!"
+msgstr "Ole hyvä ja poista käytöstä Puhelintilauksien ilmainen versio!"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:390
+msgid "Please, choose all attributes."
+msgstr "Ole hyvä, valitse kaikki ominaisuudet."
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:252
+msgid "Please, enable coupons to use discounts."
+msgstr "Ole hyvä, ota kuponkeja käyttää alennuksia."
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:111
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:155
+msgid "Please, enter valid Places API key at tab Settings"
+msgstr "Ole hyvä, kirjoita voimassa Places API key-välilehti Asetukset"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:331
+msgid "Please, fill empty required billing/shipping fields for customer"
+msgstr "Ole hyvä, täytä tyhjä vaaditaan laskutus/toimitus-kentät asiakkaan"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:1086
+msgid "Please, remove following items from the cart to continue"
+msgstr "Kiitos, poistaa seuraavia kohteita ostoskoriin jatkaa"
+
+#: classes/tabs/class-wc-phone-orders-help-page.php:50
+#, php-format
+#| msgid ""
+#| "Please, review these topics in <a href=%s target=_blank>helpdesk "
+#| "section</a>."
+msgid ""
+"Please, review these topics in <a href=%s target=_blank>our documentation</a>"
+"."
+msgstr ""
+"Ole hyvä ja arvioi tämä aihe <a href=%s target=_blank>Tukipalvelut</a>."
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:330
+msgid "Please, select/create customer"
+msgstr "Ole hyvä, valitse/luo asiakkaalle"
+
+#: classes/tabs/class-wc-phone-orders-help-page.php:34
+msgid ""
+"Please, visit >Woocommerce>Settings, select tab “Accounts & Privacy” and "
+"mark checkbox “When creating an account, automatically generate an account "
+"password”."
+msgstr ""
+"Ole hyvä ja tarkista >WooCommerce>Asetukset ja valitse \"Tilit ja "
+"yksityisyys\" ja lisää merkki \"Kun tiliä luodaan niin luo automaattisesti "
+"tilin salasana\"."
+
+#: classes/tabs/class-wc-phone-orders-help-page.php:38
+msgid ""
+"Please, visit >WooCommerce>Settings>Shipping and add shipping method for "
+"necessary zones."
+msgstr ""
+"Ole hyvä ja tarkista >WooCommerce>Asetukset>Toimitus ja lisää toimitustapa "
+"tarpeelliselle alueelle."
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:583
+msgid "Postcode"
+msgstr "Postinumero"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:91
+msgid "Price per item"
+msgstr "Hinta per erä"
+
+#: classes/tabs/class-wc-phone-orders-tabs-helper.php:231
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:403
+msgid "Private note"
+msgstr "Yksityinen huomautus"
+
+#: classes/tabs/class-wc-phone-orders-help-page.php:46
+#, php-format
+msgid ""
+"Probably, there is a conflict with another plugin. <a href=%s target=_blank>"
+"Please, check javascript errors at first</a>."
+msgstr ""
+"Luultavasti on epäsopivuusongelma toisen lisäosan kanssa. <a href=%s "
+"target=_blank>Ole hyvä ja tarkista javascriptien virheet ensimmäisenä</a>."
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:223
+msgid "Product is out of stock"
+msgstr "Tuote on loppunut varastosta"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:230
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:438
+#| msgid "Product history"
+msgid "Products history"
+msgstr "Tuotteiden historia"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:322
+msgid "Profile &rarr;"
+msgstr "Profiili →"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:342
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:371
+msgid "Qty"
+msgstr "Kpl"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:92
+msgid "Quantity"
+msgstr "Määrä"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:386
+msgid "Read more"
+msgstr "Lue lisää"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:351
+msgid "Recalculate"
+msgstr "Laske"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:165
+msgid "References"
+msgstr "Viitteet"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:73
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:409
+msgid "Remove"
+msgstr "Poista"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:76
+msgid "required by some pricing plugins"
+msgstr "tarvitaan joidenkin hinnoittelu plugins"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:143
+msgid "Reset"
+msgstr "Nollaa"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:159
+#: classes/tabs/class-wc-phone-orders-settings-page.php:169
+msgid "Reset cache"
+msgstr "Palauta kätkö"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:433
+msgid "Restore removed gifts"
+msgstr "Palauta poistettu lahjoja"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:311
+msgid "Same as shipping address."
+msgstr "Sama kuin toimitusosoite."
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:74
+msgid "Save"
+msgstr "Tallenna"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:52
+msgid "Save Changes"
+msgstr "Tallenna Muutokset"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:105
+msgid "Save customer"
+msgstr "Tallenna asiakas"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:133
+msgid "Scrollable cart contents"
+msgstr "Selattava ostoskorin sisältö"
+
+#: classes/tabs/class-wc-phone-orders-list-log.php:40
+#: classes/tabs/class-wc-phone-orders-log-page.php:26
+#: classes/tabs/class-wc-phone-orders-log-page.php:100
+msgid "Search"
+msgstr "Haku"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:80
+msgctxt "search coupons"
+msgid "Type to search"
+msgstr "Kirjoita haku"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:439
+msgid "Select customer to see purchased products"
+msgstr "Valitse asiakas nähdäksesi ostetut tuotteet"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:94
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:107
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:151
+msgid "Select option"
+msgstr "Valitse vaihtoehto"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:172
+msgid ""
+"Select products and add them to the cart and close this window. Please note "
+"that any special prices for the customer will be applied after adding the "
+"product to the order and closing this window."
+msgstr ""
+"Valitse tuotteet ja lisää ne ostoskoriin ja sulje tämä ikkuna. Huomaa, että "
+"mitään erityisiä hinnat asiakkaan tulee voida soveltaa sen jälkeen, kun "
+"tuotetta lisätään järjestyksessä ja sulkemalla tämä ikkuna."
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:171
+msgid ""
+"Select the options, add the item to the cart and close this window. Please "
+"note that any special prices for the customer will be applied after adding "
+"the product to the order and closing this window."
+msgstr ""
+"Valitse valinnat, lisää tuote ostoskoriin ja sulje tämä ikkuna. Huomaa, että "
+"mitään erityisiä hinnat asiakkaan tulee voida soveltaa sen jälkeen, kun "
+"tuotetta lisätään järjestyksessä ja sulkemalla tämä ikkuna."
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:234
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:411
+msgid "Selected"
+msgstr "Valittu"
+
+#: classes/tabs/abstract-wc-phone-orders-tab.php:579
+msgid "Selected by WooCommerce"
+msgstr "Valitaan WooCommerce"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:357
+msgid "Send invoice"
+msgstr "Lähetä lasku"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:66
+msgid "Set payment method for created order"
+msgstr "Aseta maksutapa luodulle tilaukselle"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:67
+msgid "Set status for created order"
+msgstr "Aseta tila luodulle tilaukselle"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:15
+msgid "Settings"
+msgstr "Asetukset"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:53
+msgid "Settings have been updated"
+msgstr "Asetukset on päivitetty"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:54
+msgid "Settings have not been updated"
+msgstr "Asetuksia ei ole päivitetty"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:307
+msgid "Ship to a different address?"
+msgstr "Toimitus toiseen osoitteeseen?"
+
+#: classes/tabs/class-wc-phone-orders-list-log.php:58
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:350
+#: classes/tabs/class-wc-phone-orders-settings-page.php:175
+msgid "Shipping"
+msgstr "Toimitus"
+
+#: classes/tabs/class-wc-phone-orders-tabs-helper.php:218
+msgid "Shipping address"
+msgstr "Toimitusosoite"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:308
+msgid "Shipping Details"
+msgstr "Toimitustiedot"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:139
+msgid "Shipping method"
+msgstr "Toimitustapa"
+
+#: classes/tabs/class-wc-phone-orders-help-page.php:25
+msgid "Short FAQ"
+msgstr "Lyhyt FAQ"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:131
+msgid "Show button \"Copy url to populate cart\""
+msgstr "Show painiketta \"Kopioi url-osoite asuttamaan ostoskoriin\""
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:139
+msgid "Show column \"Discount\""
+msgstr "Näytä sarake \"Alennus\""
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:117
+msgid "Show currency selector"
+msgstr "Näytä valuutan valitsin"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:149
+msgid "Show detailed taxes"
+msgstr "Näytä yksityiskohtaiset veroja"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:144
+msgid "Show icon for phone orders in orders list"
+msgstr "Näytä kuvake puhelimen tilauksia tilaukset-luettelosta"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:115
+msgid "Show order date/time"
+msgstr "Näytä järjestys-päivämäärä/aika"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:116
+msgid "Show order status"
+msgstr "Näyttää tilauksen tila"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:118
+msgid "Show payment method"
+msgstr "Näytä maksutapa"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:103
+msgid "Show records for last X days in log"
+msgstr "Näytä tietueet, jotka ovat viimeisen X päivän log"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:429
+msgid "Sign-up Fee"
+msgstr "Sign-up Fee"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:87
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:367
+msgid "SKU"
+msgstr "SKU"
+
+#: classes/tabs/abstract-wc-phone-orders-tab.php:472
+msgid "Standard rate"
+msgstr "Verokannan"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:579
+msgid "State/County"
+msgstr "State/County"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:209
+msgid "Status"
+msgstr "Tila"
+
+#: classes/tabs/abstract-wc-phone-orders-tab.php:52
+msgid "Street number"
+msgstr "Street numero"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:344
+msgid "Subtotal"
+msgstr "Yhteensä"
+
+#: classes/class-wc-phone-orders-loader.php:399
+msgid "Support"
+msgstr "Tuki"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:75
+msgid "Switch customer during cart calculations"
+msgstr "Kytkin asiakkaan aikana cart laskelmat"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:148
+msgid "Tax"
+msgstr "Vero"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:88
+msgid "Tax class"
+msgstr "Vero-luokka"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:352
+msgid "Taxes"
+msgstr "Verot"
+
+#: classes/class-wc-phone-orders-loader.php:328
+msgid "Thanks :)"
+msgstr "Kiitos :)"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:187
+msgid "There are no records to show"
+msgstr "Ei ole kirjaa ssa"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:1349
+msgid "There was an error sending the email"
+msgstr "Oli virhe lähettää sähköpostia"
+
+#: classes/tabs/class-wc-phone-orders-list-log.php:51
+msgid "Time"
+msgstr "Aika"
+
+#: classes/class-wc-phone-shipping-method.php:40
+msgid "Title"
+msgstr "Otsikko"
+
+#: classes/class-wc-phone-shipping-method.php:42
+msgid "Title to be displayed"
+msgstr "Otsikko näytetään"
+
+#: classes/tabs/class-wc-phone-orders-tools-page.php:13
+msgid "Tools"
+msgstr "Työkalut"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:191
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:343
+msgid "Total"
+msgstr "Yhteensä"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:217
+msgid "Total Amount"
+msgstr "Kokonaismäärä"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:189
+msgid "Total Orders"
+msgstr "Yhteensä Tilauksia"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:190
+msgid "Total Paid"
+msgstr "Yhteensä Maksettu"
+
+#: classes/tabs/class-wc-phone-orders-list-log.php:59
+msgid "Totals"
+msgstr "Yhteensä"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:326
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:397
+msgid "Type search phrase to see results"
+msgstr "Näet tulokset kirjoittamalla hakulauseke"
+
+#: classes/tabs/abstract-wc-phone-orders-tab.php:115
+msgid "Unexpected output"
+msgstr "Odottamaton ulostulo"
+
+#: classes/class-wc-phone-orders-fill-cart.php:40
+msgid "Unknown product &quot;%d&quot;."
+msgstr "Tuntematon tuote \"%d\"."
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:393
+msgid "Url has been copied to clipboard"
+msgstr "Url-osoite on kopioitu leikepöydälle"
+
+#: classes/tabs/class-wc-phone-orders-list-log.php:52
+msgid "Username"
+msgstr "Käyttäjätunnus"
+
+#: classes/class-wc-phone-orders-main.php:132
+#: classes/tabs/class-wc-phone-orders-settings-page.php:95
+msgid "USPS"
+msgstr "USPS"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:369
+msgid "Variation ID"
+msgstr "Vaihtelu ID"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:356
+msgid "View draft"
+msgstr "Näytä luonnos"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:355
+msgid "View order"
+msgstr "Tarkastella tilauksen"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:323
+msgid "View other orders &rarr;"
+msgstr "Katso muut tilaukset →"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:359
+msgid "Want to pay order as customer?"
+msgstr "Haluatko maksaa tilauksen asiakkaana?"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:132
+msgid "warning : this feature is not compatible with discounts"
+msgstr "varoitus : tämä ominaisuus ei ole yhteensopiva alennuksia"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:96
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:385
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:434
+msgid "Weight"
+msgstr "Paino"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:98
+msgid "Width"
+msgstr "Leveys"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:127
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:135
+msgid "with tax"
+msgstr "vero"
+
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:128
+#: classes/tabs/class-wc-phone-orders-add-order-page.php:136
+msgid "without tax"
+msgstr "ilman veroja"
+
+#: classes/tabs/class-wc-phone-orders-settings-page.php:143
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: classes/tabs/class-wc-phone-orders-help-page.php:30
+#, php-format
+msgid "You should buy <a href=%s target=_blank>Pro version</a>."
+msgstr "Sinun täytyy ostaa <a href=%s target=_blank>Pro versio</a>."
+
+#: classes/tabs/class-wc-phone-orders-tools-page.php:28
+msgid ""
+"You should submit generated report as new ticket to <a href=\"https:"
+"//algolplus.freshdesk.com/support/tickets/new\" target=\"_blank\">"
+"helpdesk</a>"
+msgstr ""
+"Sinun tulee lähettää luotu raportti uutena lippuna  <a href=\"https:"
+"//algolplus.freshdesk.com/support/tickets/new\" target=\"_blank\">"
+"helpdeskiin</a>"
