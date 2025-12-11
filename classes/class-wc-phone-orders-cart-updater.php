@@ -281,6 +281,7 @@ class WC_Phone_Orders_Cart_Updater {
 			$cart_item_meta['allow_po_discount']     = isset( $item['allow_po_discount'] ) ? $item['allow_po_discount'] : true;
 			$cart_item_meta['wpo_item_cost']         = isset( $item['item_cost'] ) ? $item['item_cost'] : null;
             $cart_item_meta['removed_custom_meta_fields_keys'] = isset( $item['removed_custom_meta_fields_keys'] ) ? $item['removed_custom_meta_fields_keys'] : array();
+			$cart_item_meta['custom_meta_fields']    = $item_custom_meta_fields;
 
 			if ( ! empty( $item['wpo_item_discount'] ) ) {
 			    $cart_item_meta['wpo_item_discount'] = $item['wpo_item_discount'];
@@ -327,7 +328,6 @@ class WC_Phone_Orders_Cart_Updater {
 				}
 				$cart_item_key___original_item[ $cart_item_key ] = $item;
 //				WC()->cart->cart_contents[ $cart_item_key ] = apply_filters( 'wdp_after_cart_item_add', WC()->cart->cart_contents[ $cart_item_key ], $item );;
-				WC()->cart->get_cart()[ $cart_item_key ]['data']->custom_meta_fields = $item['custom_meta_fields'];
 			} else {
 
 				$deleted_cart_items[] = array(
@@ -705,7 +705,7 @@ class WC_Phone_Orders_Cart_Updater {
 				$item['key']                                     = $key;
 				$item['loaded_product']['key']                   = $key;
 				$item['loaded_product']['item_cost']             = $item['item_cost'];
-				$item['loaded_product']['custom_meta_fields']    = ! empty( $item['data']->custom_meta_fields ) ? $item['data']->custom_meta_fields : array();
+				$item['loaded_product']['custom_meta_fields']    = ! empty( $item['custom_meta_fields'] ) ? $item['custom_meta_fields'] : array();
 				$item['loaded_product']['variation_data']        = $item['variation'];
 
                                 $item['loaded_product']['formatted_variation_data'] = static::get_formatted_variation_data($item['loaded_product']['variation_data'], $product);
@@ -1275,7 +1275,7 @@ class WC_Phone_Orders_Cart_Updater {
 			$new_item = $item;
 
 			if ( ! is_array( $item ) && ! is_object( $item ) ) {
-				if ( ! is_string( $item ) && is_nan( $item ) ) {
+				if ( is_float( $item ) && is_nan( $item ) ) {
 					$new_item = "NAN";
 				}
 			} else {
