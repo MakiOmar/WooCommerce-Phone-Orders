@@ -1106,6 +1106,7 @@ class WC_Phone_Orders_Add_Order_Page extends WC_Phone_Orders_Admin_Abstract_Page
 	// Sees if the customer has entered enough data to calc the shipping yet.
 
 	protected function ajax_create_order( $data ) {
+		$cart = isset( $data['cart'] ) ? $data['cart'] : array();
 		$result = $this->create_order( $data );
 		if ( is_array( $result ) && isset( $result['success'] ) && $result['success'] == false ) {
 			return $result;
@@ -1138,7 +1139,12 @@ class WC_Phone_Orders_Add_Order_Page extends WC_Phone_Orders_Admin_Abstract_Page
                     'recalculated_cart'  => $recalculated_cart,
                 );
 
-				$this->clear_cart_for_switch_user( $cart['customer']['id'] );
+				$cart_customer_id = isset( $cart['customer']['id'] )
+					? $cart['customer']['id']
+					: ( isset( $loaded_order['cart']['customer']['id'] ) ? $loaded_order['cart']['customer']['id'] : null );
+				if ( $cart_customer_id ) {
+					$this->clear_cart_for_switch_user( $cart_customer_id );
+				}
 
                 return $this->wpo_send_json_success( $result );
 	}
